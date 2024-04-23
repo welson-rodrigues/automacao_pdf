@@ -2,7 +2,7 @@
 Aqui disponibilizo um projeto de automação em python, onde o programa ordena vários arquivos.pdf e mescla todos eles em um único arquivo.
 
 ## Como funciona
-Criei 3 arquivos PDF com os nome de: 01.primeiro_pdf, 02.segundo_pdf e 03.primeiro_pdf. Coloquei todos eles dentro de uma pasta e usando uma biblioteca do python chamada PyPDF2, criei uma lista ordenada para organizar os arquivos. (os arquivos são ordenados de acordo com critérios específicos, como número ou data de criação.) Em seguida, fiz um loop for que percorre toda a pasta dos pdfs já ordenados e junta (mescla) todos eles em um único arquivo pdf chamado de "PDF Final".
+Criei 3 arquivos PDF com os nome de: 01.primeiro_pdf, 02.segundo_pdf e 03.primeiro_pdf. Coloquei todos eles dentro de uma pasta e usando uma biblioteca do python chamada PyPDF2, criei uma lista ordenada para organizar os arquivos. (Os arquivos são ordenados de acordo com critérios específicos, como número ou data de criação). Em seguida, fiz um loop for que percorre toda a pasta dos pdfs já ordenados e junta (mescla) todos eles em um único arquivo pdf chamado de "PDF Final".
 
 ## Importante
 
