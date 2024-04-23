@@ -6,6 +6,6 @@ Criei 3 arquivos PDF com os nome de: 01.primeiro_pdf, 02.segundo_pdf e 03.primei
 
 ## Importante
 
-- Caso for baixar para testes, é necessaŕio ter o PyPDF2 instalado. Use o comando "pip install PyPDF2" (tanto no LINUX quanto no WINDOWS)
+- Caso for baixar para testes, é necessário ter o PyPDF2 instalado. Use o comando "pip install PyPDF2" (tanto no LINUX quanto no WINDOWS)
 - Os arquivos PDF devem estar na mesma pasta
 - É possível fazer isso com qualquer tipo de PDF, independente do tamanho
